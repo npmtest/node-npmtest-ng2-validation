@@ -1,0 +1,19 @@
+<svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="254" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">18 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ ng2-validation@4.1.0 </tspan>
+<tspan x="10" y="90">  └─┬ libphonenumber-js@0.4.7 </tspan>
+<tspan x="10" y="106">    ├─┬ babel-runtime@6.23.0 </tspan>
+<tspan x="10" y="122">    │ ├── core-js@2.4.1 </tspan>
+<tspan x="10" y="138">    │ └── regenerator-runtime@0.10.3 </tspan>
+<tspan x="10" y="154">    ├── bluebird@3.5.0 </tspan>
+<tspan x="10" y="170">    ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="186">    └─┬ xml2js@0.4.17 </tspan>
+<tspan x="10" y="202">      ├── sax@1.2.2 </tspan>
+<tspan x="10" y="218">      └─┬ xmlbuilder@4.2.1 </tspan>
+<tspan x="10" y="234">        └── lodash@4.17.4</tspan>
+</text>
+</svg>
